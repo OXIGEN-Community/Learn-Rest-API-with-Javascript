@@ -8,4 +8,5 @@ Learn Rest API with Javascript
     <li><strong>Fetch API with React JS :</strong> https://github.com/Muhammad-Ikhwan-Fathulloh/Todo-App-CRUD-API-with-React-JS</li>
   </ul>
   </li>
+  <li>Mock API : https://mockapi.io/</li>
 </ul>
